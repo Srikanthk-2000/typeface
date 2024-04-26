@@ -1,0 +1,14 @@
+.size-button {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    font-size: 14px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  
+  .size-button:hover {
+    background-color: #e0e0e0;
+  }
